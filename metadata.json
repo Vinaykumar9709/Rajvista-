@@ -1,0 +1,7 @@
+{
+  "name": "Rajvista",
+  "description": "A luxury hotel management system for Rajasthan's finest hotels, with role-based access and AI services.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
